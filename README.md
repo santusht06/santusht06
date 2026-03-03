@@ -5,9 +5,8 @@
 
 <div align="center">
 
-<a href="https://santusht.me">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=🚀+Backend+Dev+crafting+scalable+APIs...;⚡+Python+%7C+Node.js+%7C+Django+%7C+Flask;🧠+Obsessed+with+clean+architecture+%26+system+design;🌐+Building+at+santusht.me;💡+%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22" alt="Typing SVG" />
-</a>
+
 
 <br/><br/>
 
