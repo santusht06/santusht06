@@ -1,11 +1,15 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Santusht.&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20API%20Architect%20%7C%20Systems%20Thinker&descAlignY=60&descSize=18&descColor=8b949e" />
 
-</div>
 
-<div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=🚀+Backend+Dev+crafting+scalable+APIs...;⚡+Python+%7C+Node.js+%7C+Django+%7C+Flask;🧠+Obsessed+with+clean+architecture+%26+system+design;🌐+Building+at+santusht.me;💡+%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Santusht.&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20API%20Architect%20%7C%20Systems%20Thinker&descAlignY=60&descSize=18&descColor=8b949e" />
+
+
+<a href="https://santusht.me">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=🚀+Backend+Dev+crafting+scalable+APIs...;⚡+Python+%7C+Node.js+%7C+Django+%7C+FastAPI;🧠+Obsessed+with+clean+architecture+%26+system+design;🌐+Building+at+santusht.me;💡+%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22" alt="Typing SVG" />
+</a>
+
+
 
 
 <br/><br/>
@@ -33,38 +37,37 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
+
 
 <br/>
-
 
 
 ### 👾 Who Am I?
 
 ```python
 #!/usr/bin/env python3
-# ──────────────────────────────────────────────
+# ─────────────────────────────────────────
 #   santusht06 · github.com/santusht06
-#   Portfolio · santusht.me
-# ──────────────────────────────────────────────
+#   Portfolio   · santusht.me
+# ─────────────────────────────────────────
 
 class SantushTKotai:
 
     def __init__(self):
-        self.name         = "Santush T. Kotai"
+        self.name         = "Santusht. Kotai"
         self.alias        = "santusht06"
-        self.location     = "🌍 India"
+        self.location     = "India"
         self.portfolio    = "https://santusht.me"
         self.email        = "santushtkotai1221@gmail.com"
         self.role         = "Backend Developer"
-        self.languages    = ["Python", "JavaScript", "SQL", "Bash"]
-        self.backend      = ["Django", "Flask", "FastAPI", "Node.js", "Express.js"]
-        self.frontend     = ["React", "Tailwind CSS", "HTML5", "CSS3"]
-        self.databases    = ["PostgreSQL", "MongoDB", "MySQL", "Redis"]
-        self.devops       = ["Docker", "Linux", "Nginx", "GitHub Actions"]
-        self.cloud        = ["AWS (EC2, S3, RDS)", "Vercel", "Railway", "Render"]
-        self.currently    = "Architecting production APIs"
-        self.learning     = ["System Design", "Microservices", "Kubernetes", "gRPC"]
+        self.languages    = ["Python", "Java", "Go", "C++", "JavaScript"]
+        self.backend      = ["FastAPI", "Flask", "Gin", "Node.js", "Express.js"]
+        self.databases    = ["PostgreSQL", "MongoDB", "MySQL", "DynamoDB", "Redis"]
+        self.devops       = ["Docker", "Kubernetes", "Linux", "GitHub Actions"]
+        self.cloud        = ["AWS (EC2, S3, RDS)", "Cloudflare", "Vercel", "Railway"]
+        self.currently    = "Architecting production-grade backend systems"
+        self.learning     = ["System Design", "Microservices", "gRPC", "K8s"]
         self.interests    = ["Open Source", "Backend Infra", "Developer Tooling"]
         self.available    = True  # Open to collaborations!
 
@@ -80,27 +83,32 @@ class SantushTKotai:
         ]
 
     def __str__(self):
-        return f"Backend Dev | {self.location} | {self.portfolio}"
+        return f"Backend Dev | India | {self.portfolio}"
 
 
-me = SantushTKotai()
-print(me)         # Backend Dev | India | https://santusht.me
+me = SantushtKotai()
+print(me)            # Backend Dev | India | https://santusht.me
 print(me.philosophy())
 ```
 
 <br clear="right"/>
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
 
 <br/>
+
+
 
 ## 🗺️ My Coding Journey
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
-│                          SANTUSH'S CODE ODYSSEY                          │
+│                          SANTUSHT'S CODE ODYSSEY                          │
 ├──────────┬───────────────────────────────────────────────────────────────┤
 │  Year 1  │  🌱 Hello World moment — discovered programming               │
 │          │     Fell in love with Python. Logic > everything.             │
@@ -111,61 +119,49 @@ print(me.philosophy())
 │  Year 3  │  🚀 Going Full Stack — React, Node.js, Express                │
 │          │     Frontend is cool. But backend is home.                    │
 ├──────────┼───────────────────────────────────────────────────────────────┤
-│  Year 4  │  🐳 DevOps Awakening — Docker, Linux, CI/CD                   │
-│          │     "It works on my machine" → No longer acceptable.          │
+│  Year 4  │  🐳 DevOps Awakening — Docker, Linux, CI/CD, Kubernetes       │
+│          │     "It works on my machine" is no longer acceptable.         │
 ├──────────┼───────────────────────────────────────────────────────────────┤
-│  Now     │  🧠 System Design & Architecture Mode ON                      │
-│          │     Microservices, scalability, clean code at scale.          │
+│  Now     │  🧠 Systems & Architecture Mode ON                            │
+│          │     Go, gRPC, CQRS, Event Sourcing, clean code at scale.      │
 ├──────────┼───────────────────────────────────────────────────────────────┤
-│  Next    │  ☁️  Cloud-native | gRPC | Open Source Contributions          │
-│          │     Building in public. Shipping. Growing.                    │
+│  Next    │  ☁️  Cloud-native | Open Source | Building in Public          │
+│          │     Shipping, learning, growing — one commit at a time.       │
 └──────────┴───────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
 
 <br/>
 
 ## ⚡ Tech Arsenal
 
-
-
 <div align="center">
 
-
-
-</div>
-
-
 ### 🧠 Languages
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=58A6FF)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF)
-![Golang](https://img.shields.io/badge/Golang-0d1117?style=for-the-badge&logo=go&logoColor=58A6FF)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=58A6FF)
+![Go](https://img.shields.io/badge/Golang-0d1117?style=for-the-badge&logo=go&logoColor=58A6FF)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=58A6FF)
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=58A6FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=58A6FF)
 
----
-
 ### ⚙️ Backend & Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=58A6FF)
 ![Gin](https://img.shields.io/badge/Gin-0d1117?style=for-the-badge&logo=go&logoColor=58A6FF)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=58A6FF)
 ![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=58A6FF)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF)
 
----
-
-### 🗄 Databases & Caching
+### 🗄️ Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=58A6FF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=58A6FF)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-0d1117?style=for-the-badge&logo=amazondynamodb&logoColor=58A6FF)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=58A6FF)
-
----
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=58A6FF)
@@ -173,28 +169,31 @@ print(me.philosophy())
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=58A6FF)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=58A6FF)
-
----
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=58A6FF)
 
 ### 🔐 Systems, Networking & Security
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=58A6FF)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-0d1117?style=for-the-badge&logo=protocolsio&logoColor=58A6FF)
-![HTTP](https://img.shields.io/badge/HTTP/1.1-0d1117?style=for-the-badge&logo=internetarchive&logoColor=58A6FF)
 ![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=58A6FF)
 ![WebSockets](https://img.shields.io/badge/WebSockets-0d1117?style=for-the-badge&logo=socketdotio&logoColor=58A6FF)
-
----
+![gRPC](https://img.shields.io/badge/gRPC-0d1117?style=for-the-badge&logo=grpc&logoColor=58A6FF)
+![REST](https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge&logo=postman&logoColor=58A6FF)
 
 ### 🧪 Testing & Engineering Practices
 ![pytest](https://img.shields.io/badge/pytest-0d1117?style=for-the-badge&logo=pytest&logoColor=58A6FF)
-![CI/CD](https://img.shields.io/badge/CI/CD-0d1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF)
-![Agile](https://img.shields.io/badge/Agile-0d1117?style=for-the-badge&logo=scrumalliance&logoColor=58A6FF)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=58A6FF)
-
----
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=58A6FF)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=58A6FF)
 
 ### 🧩 Core Computer Science
-Data Structures & Algorithms • System Design • Operating Systems • Computer Networks • DBMS • Design Patterns • Concurrency • Multithreading • Thread Synchronisation
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0d1117?style=for-the-badge&logo=leetcode&logoColor=58A6FF)
+![System Design](https://img.shields.io/badge/System_Design-0d1117?style=for-the-badge&logo=blueprint&logoColor=58A6FF)
+![OS](https://img.shields.io/badge/Operating_Systems-0d1117?style=for-the-badge&logo=linux&logoColor=58A6FF)
+![CN](https://img.shields.io/badge/Computer_Networks-0d1117?style=for-the-badge&logo=cisco&logoColor=58A6FF)
+![DBMS](https://img.shields.io/badge/DBMS-0d1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF)
+![Concurrency](https://img.shields.io/badge/Concurrency_%26_Multithreading-0d1117?style=for-the-badge&logo=processwire&logoColor=58A6FF)
+
+</div>
+
 <br/>
 
 <div align="center">
@@ -204,12 +203,12 @@ Data Structures & Algorithms • System Design • Operating Systems • Compute
   ║              PROFICIENCY BREAKDOWN                        ║
   ╠══════════════════╦════════════════════════════════════════╣
   ║  Python          ║  ████████████████████░░  90%          ║
-  ║  Django / Flask  ║  ███████████████████░░░  85%          ║
+  ║  FastAPI / Flask ║  ███████████████████░░░  85%          ║
   ║  Node.js         ║  ██████████████████░░░░  80%          ║
   ║  REST API Design ║  ████████████████████░░  90%          ║
   ║  PostgreSQL      ║  ████████████████░░░░░░  75%          ║
-  ║  Docker          ║  ████████████████░░░░░░  70%          ║
-  ║  React           ║  ███████████████░░░░░░░  65%          ║
+  ║  Docker / K8s    ║  ████████████████░░░░░░  70%          ║
+  ║  Go / Gin        ║  ██████████████░░░░░░░░  65%  📈      ║
   ║  System Design   ║  ██████████████░░░░░░░░  60%  📈      ║
   ╚══════════════════╩════════════════════════════════════════╝
 ```
@@ -218,7 +217,7 @@ Data Structures & Algorithms • System Design • Operating Systems • Compute
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
 
 <br/>
 
@@ -234,7 +233,7 @@ Data Structures & Algorithms • System Design • Operating Systems • Compute
 <br/><br/>
 
 <a href="https://github.com/santusht06">
-  <img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=santusht06&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+  <img width="72%" src="https://streak-stats.demolab.com/?user=santusht06&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 </a>
 
 </div>
@@ -244,7 +243,7 @@ Data Structures & Algorithms • System Design • Operating Systems • Compute
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=santusht06&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=santusht06&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 <br/>
@@ -252,24 +251,18 @@ Data Structures & Algorithms • System Design • Operating Systems • Compute
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=santusht06&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF&area=true&area_color=1f6feb&hide_border=true&custom_title=Santush's%20Contribution%20Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=santusht06&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF&area=true&area_color=1f6feb&hide_border=true&custom_title=Santusht's%20Contribution%20Graph" />
 </div>
 
 <br/>
 
-## 🐍 Watch My Contributions Get Eaten
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santusht06/santusht06/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santusht06/santusht06/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/santusht06/santusht06/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
+
+> ⚙️ **Setup:** Add `.github/workflows/snake.yml` to activate your personal snake (see setup guide below).
 
 <br/>
 
-## 🗂️ Profile Summary Cards
+## 🗂️ Profile Summary
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santusht06&theme=github_dark" width="100%" />
@@ -284,16 +277,16 @@ Data Structures & Algorithms • System Design • Operating Systems • Compute
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
 
 <br/>
 
 ## 🔭 What I'm Currently Building
 
 ```javascript
-// ─────────────────────────────────────────────
-//  santusht06's dev.log — 2025
-// ─────────────────────────────────────────────
+// ──────────────────────────────────────────────
+//  santusht06 · dev.log · 2025
+// ──────────────────────────────────────────────
 
 const currentChapter = {
 
@@ -308,9 +301,9 @@ const currentChapter = {
 
   exploring  : [
     "System design patterns — CQRS, Event Sourcing",
-    "Kubernetes basics and orchestration concepts",
+    "Kubernetes cluster orchestration in production",
     "Database optimization — indexing, query planning",
-    "gRPC for inter-service communication",
+    "gRPC for typed inter-service communication",
   ],
 
   reading    : [
@@ -334,7 +327,7 @@ console.log("Status:", currentChapter.mantra);
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
 
 <br/>
 
@@ -360,7 +353,7 @@ console.log("Status:", currentChapter.mantra);
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
 
 <br/>
 
@@ -399,7 +392,7 @@ console.log("Status:", currentChapter.mantra);
 
 <br/>
 
-> "Always open to interesting backend projects, open-source collabs, or just a great tech conversation. Drop a mail or connect on LinkedIn!"
+> 💬 *"Always open to interesting backend projects, open-source collabs, or just a great tech conversation — reach out anytime!"*
 
 <br/>
 
@@ -410,3 +403,38 @@ console.log("Status:", currentChapter.mantra);
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" />
 
 </div>
+
+---
+
+<details>
+<summary>⚙️ <strong>Snake Animation Setup</strong> — click to expand</summary>
+
+Create `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: santusht06
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Once this runs, the snake will automatically use your real contributions.
+
+</details>
