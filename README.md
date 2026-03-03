@@ -52,7 +52,7 @@
 #   Portfolio   · santusht.me
 # ─────────────────────────────────────────
 
-class SantushTKotai:
+class SantushtKotai:
 
     def __init__(self):
         self.name         = "Santusht Kotai"
