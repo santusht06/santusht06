@@ -107,31 +107,33 @@ print(me.philosophy())
 ## 🧠 Engineering Evolution
 
 ```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                     SANTUSHT · BACKEND EVOLUTION                          │
-├──────────┬───────────────────────────────────────────────────────────────┤
-│  Phase 1 │  🧩 Foundations                                               │
-│          │     Python, logic building, DSA, problem solving.             │
-│          │     Learned how computers actually think.                     │
-├──────────┼───────────────────────────────────────────────────────────────┤
-│  Phase 2 │  🔗 Backend Realisation                                       │
-│          │     Django → REST APIs → relational databases.                │
-│          │     Understood that APIs are contracts, not endpoints.        │
-├──────────┼───────────────────────────────────────────────────────────────┤
-│  Phase 3 │  ⚙️  System Thinking                                           │
-│          │     FastAPI, authentication, RBAC, caching.                   │
-│          │     Schema design, performance optimisation.                  │
-├──────────┼───────────────────────────────────────────────────────────────┤
-│  Phase 4 │  🐳 Production Mindset                                         │
-│          │     Docker, CI/CD, Linux, cloud deployment.                   │
-│          │     "If it's not containerised, it's not ready."              │
-├──────────┼───────────────────────────────────────────────────────────────┤
-│  Present │  🧠 Architecture Mode                                          │
-│          │     Distributed systems, concurrency, gRPC, system design.    │
-│          │     Building scalable backend infrastructure.                  │
-├──────────┼───────────────────────────────────────────────────────────────┤
-│  Mission │  🚀 Build systems that scale, survive, and stay maintainable. │
-└──────────┴───────────────────────────────────────────────────────────────┘
+
++----------------------------------------------------------------------------+
+|                        SANTUSHT · BACKEND EVOLUTION                        |
++------------+---------------------------------------------------------------+
+| Phase 1    | Foundations                                                   |
+|            | Python, DSA, problem solving.                                 |
+|            | Learned how computers actually think.                         |
++------------+---------------------------------------------------------------+
+| Phase 2    | Backend Realisation                                           |
+|            | Django → REST APIs → relational databases.                    |
+|            | APIs are contracts, not endpoints.                            |
++------------+---------------------------------------------------------------+
+| Phase 3    | System Thinking                                               |
+|            | FastAPI, RBAC, caching, schema design.                        |
+|            | Performance and security became priorities.                   |
++------------+---------------------------------------------------------------+
+| Phase 4    | Production Mindset                                            |
+|            | Docker, CI/CD, Linux, cloud deployment.                       |
+|            | If it's not containerised, it's not ready.                    |
++------------+---------------------------------------------------------------+
+| Present    | Architecture Mode                                             |
+|            | Distributed systems, concurrency, gRPC.                       |
+|            | Building scalable backend infrastructure.                     |
++------------+---------------------------------------------------------------+
+| Mission    | Build systems that scale, survive, and stay maintainable.     |
++----------------------------------------------------------------------------+
+
 ```
 <br/>
 
@@ -256,8 +258,18 @@ print(me.philosophy())
 
 
 
-> ⚙️ **Setup:** Add `.github/workflows/snake.yml` to activate your personal snake (see setup guide below).
+<div align="center">
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/santusht06/santusht06/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/santusht06/santusht06/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake"
+         src="https://raw.githubusercontent.com/santusht06/santusht06/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+
+</div>
 <br/>
 
 ## 🗂️ Profile Summary
@@ -403,16 +415,3 @@ console.log("Status:", currentChapter.mantra);
 </div>
 
 ---
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/santusht06/santusht06/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://raw.githubusercontent.com/santusht06/santusht06/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake"
-         src="https://raw.githubusercontent.com/santusht06/santusht06/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-
-</div>
