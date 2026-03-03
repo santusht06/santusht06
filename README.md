@@ -55,7 +55,7 @@
 class SantushTKotai:
 
     def __init__(self):
-        self.name         = "Santusht. Kotai"
+        self.name         = "Santusht Kotai"
         self.alias        = "santusht06"
         self.location     = "India"
         self.portfolio    = "https://santusht.me"
