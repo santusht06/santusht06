@@ -1,6 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Santush%20T.&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20API%20Architect%20%7C%20Systems%20Thinker&descAlignY=60&descSize=18&descColor=8b949e" />
 
 </div>
 
@@ -39,7 +38,7 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
 
 ### 👾 Who Am I?
 
@@ -132,54 +131,71 @@ print(me.philosophy())
 
 ## ⚡ Tech Arsenal
 
+
+
 <div align="center">
 
-### 🐍 Languages
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=58A6FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=58A6FF)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=58A6FF)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF)
 
-### ⚙️ Backend Frameworks
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=58A6FF)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=58A6FF)
+
+</div>
+
+
+### 🧠 Languages
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=58A6FF)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF)
+![Golang](https://img.shields.io/badge/Golang-0d1117?style=for-the-badge&logo=go&logoColor=58A6FF)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=58A6FF)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=58A6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=58A6FF)
+
+---
+
+### ⚙️ Backend & Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF)
+![Gin](https://img.shields.io/badge/Gin-0d1117?style=for-the-badge&logo=go&logoColor=58A6FF)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=58A6FF)
 ![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=58A6FF)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=58A6FF)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=58A6FF)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=58A6FF)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=58A6FF)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=58A6FF)
+---
 
-### 🗄️ Databases
+### 🗄 Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=58A6FF)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=58A6FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=58A6FF)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-0d1117?style=for-the-badge&logo=amazondynamodb&logoColor=58A6FF)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=58A6FF)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=58A6FF)
+
+---
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=58A6FF)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=58A6FF)
-![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=58A6FF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=58A6FF)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)
-![Railway](https://img.shields.io/badge/Railway-0d1117?style=for-the-badge&logo=railway&logoColor=58A6FF)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=58A6FF)
 
-### 🛠️ Developer Tools
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=58A6FF)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF)
+---
+
+### 🔐 Systems, Networking & Security
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=58A6FF)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=58A6FF)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=58A6FF)
-![Insomnia](https://img.shields.io/badge/Insomnia-0d1117?style=for-the-badge&logo=insomnia&logoColor=58A6FF)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-0d1117?style=for-the-badge&logo=protocolsio&logoColor=58A6FF)
+![HTTP](https://img.shields.io/badge/HTTP/1.1-0d1117?style=for-the-badge&logo=internetarchive&logoColor=58A6FF)
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=58A6FF)
+![WebSockets](https://img.shields.io/badge/WebSockets-0d1117?style=for-the-badge&logo=socketdotio&logoColor=58A6FF)
 
-</div>
+---
 
+### 🧪 Testing & Engineering Practices
+![pytest](https://img.shields.io/badge/pytest-0d1117?style=for-the-badge&logo=pytest&logoColor=58A6FF)
+![CI/CD](https://img.shields.io/badge/CI/CD-0d1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF)
+![Agile](https://img.shields.io/badge/Agile-0d1117?style=for-the-badge&logo=scrumalliance&logoColor=58A6FF)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=58A6FF)
+
+---
+
+### 🧩 Core Computer Science
+Data Structures & Algorithms • System Design • Operating Systems • Computer Networks • DBMS • Design Patterns • Concurrency • Multithreading • Thread Synchronisation
 <br/>
 
 <div align="center">
