@@ -104,32 +104,35 @@ print(me.philosophy())
 
 
 
-## 🗺️ My Coding Journey
+## 🧠 Engineering Evolution
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
-│                          SANTUSHT'S CODE ODYSSEY                          │
+│                     SANTUSHT · BACKEND EVOLUTION                          │
 ├──────────┬───────────────────────────────────────────────────────────────┤
-│  Year 1  │  🌱 Hello World moment — discovered programming               │
-│          │     Fell in love with Python. Logic > everything.             │
+│  Phase 1 │  🧩 Foundations                                               │
+│          │     Python, logic building, DSA, problem solving.             │
+│          │     Learned how computers actually think.                     │
 ├──────────┼───────────────────────────────────────────────────────────────┤
-│  Year 2  │  ⚙️  Backend Click — Django, REST APIs, databases             │
-│          │     Built first CRUD app. Survived first CORS error.          │
+│  Phase 2 │  🔗 Backend Realisation                                       │
+│          │     Django → REST APIs → relational databases.                │
+│          │     Understood that APIs are contracts, not endpoints.        │
 ├──────────┼───────────────────────────────────────────────────────────────┤
-│  Year 3  │  🚀 Going Full Stack — React, Node.js, Express                │
-│          │     Frontend is cool. But backend is home.                    │
+│  Phase 3 │  ⚙️  System Thinking                                           │
+│          │     FastAPI, authentication, RBAC, caching.                   │
+│          │     Schema design, performance optimisation.                  │
 ├──────────┼───────────────────────────────────────────────────────────────┤
-│  Year 4  │  🐳 DevOps Awakening — Docker, Linux, CI/CD, Kubernetes       │
-│          │     "It works on my machine" is no longer acceptable.         │
+│  Phase 4 │  🐳 Production Mindset                                         │
+│          │     Docker, CI/CD, Linux, cloud deployment.                   │
+│          │     "If it's not containerised, it's not ready."              │
 ├──────────┼───────────────────────────────────────────────────────────────┤
-│  Now     │  🧠 Systems & Architecture Mode ON                            │
-│          │     Go, gRPC, CQRS, Event Sourcing, clean code at scale.      │
+│  Present │  🧠 Architecture Mode                                          │
+│          │     Distributed systems, concurrency, gRPC, system design.    │
+│          │     Building scalable backend infrastructure.                  │
 ├──────────┼───────────────────────────────────────────────────────────────┤
-│  Next    │  ☁️  Cloud-native | Open Source | Building in Public          │
-│          │     Shipping, learning, growing — one commit at a time.       │
+│  Mission │  🚀 Build systems that scale, survive, and stay maintainable. │
 └──────────┴───────────────────────────────────────────────────────────────┘
 ```
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
@@ -240,11 +243,6 @@ print(me.philosophy())
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=santusht06&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
 
 <br/>
 
