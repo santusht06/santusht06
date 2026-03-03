@@ -1,174 +1,397 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Santush%20T.&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20API%20Architect%20%7C%20Systems%20Thinker&descAlignY=60&descSize=18&descColor=8b949e" />
 
-<!-- Glitch Name Title -->
-<a href="https://github.com/santusht06">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Santush+%F0%9F%91%8B;Backend+Developer+%7C+API+Craftsman;Building+scalable+systems%2C+one+commit+at+a+time.;Python+%E2%9A%A1+Node.js+%E2%9A%A1+Always+learning." alt="Typing SVG" />
+</div>
+
+<div align="center">
+
+<a href="https://santusht.me">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=🚀+Backend+Dev+crafting+scalable+APIs...;⚡+Python+%7C+Node.js+%7C+Django+%7C+Flask;🧠+Obsessed+with+clean+architecture+%26+system+design;🌐+Building+at+santusht.me;💡+%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Subtle divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<a href="https://www.linkedin.com/in/santusht-kotai-8a4454323/">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0d1117" />
+</a>
+<a href="https://santusht.me">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=safari&logoColor=58A6FF&labelColor=0d1117" />
+</a>
+<a href="mailto:santushtkotai1221@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0d1117" />
+</a>
+<a href="https://github.com/santusht06">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=santusht06&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/santusht06?style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=github&logoColor=58A6FF)
+![Stars](https://img.shields.io/github/stars/santusht06?style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=github&logoColor=58A6FF)
 
 </div>
 
 <br/>
 
-<!-- About section -->
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+### 👾 Who Am I?
 
 ```python
-class SantushT06:
+#!/usr/bin/env python3
+# ──────────────────────────────────────────────
+#   santusht06 · github.com/santusht06
+#   Portfolio · santusht.me
+# ──────────────────────────────────────────────
+
+class SantushTKotai:
+
     def __init__(self):
-        self.name       = "Santush"
-        self.username   = "santusht06"
-        self.role       = "Backend Developer"
-        self.stack      = ["Python", "Node.js", "React", "Django", "Flask"]
-        self.databases  = ["PostgreSQL", "MongoDB", "Redis"]
-        self.tools      = ["Docker", "Git", "REST APIs", "GraphQL"]
-        self.currently  = "Building production-ready backends"
-        self.learning   = ["System Design", "Microservices", "AWS"]
-        self.available  = True  # Open to collabs 🚀
+        self.name         = "Santush T. Kotai"
+        self.alias        = "santusht06"
+        self.location     = "🌍 India"
+        self.portfolio    = "https://santusht.me"
+        self.email        = "santushtkotai1221@gmail.com"
+        self.role         = "Backend Developer"
+        self.languages    = ["Python", "JavaScript", "SQL", "Bash"]
+        self.backend      = ["Django", "Flask", "FastAPI", "Node.js", "Express.js"]
+        self.frontend     = ["React", "Tailwind CSS", "HTML5", "CSS3"]
+        self.databases    = ["PostgreSQL", "MongoDB", "MySQL", "Redis"]
+        self.devops       = ["Docker", "Linux", "Nginx", "GitHub Actions"]
+        self.cloud        = ["AWS (EC2, S3, RDS)", "Vercel", "Railway", "Render"]
+        self.currently    = "Architecting production APIs"
+        self.learning     = ["System Design", "Microservices", "Kubernetes", "gRPC"]
+        self.interests    = ["Open Source", "Backend Infra", "Developer Tooling"]
+        self.available    = True  # Open to collaborations!
 
-    def code(self):
-        return "while alive: keep_building()"
+    def philosophy(self) -> str:
+        return "Write code that future-you won't hate"
 
-me = SantushT06()
-print(me.code())
+    def daily_routine(self) -> list:
+        return [
+            "Coffee  →  Code",
+            "Debug   →  Learn",
+            "Ship    →  Iterate",
+            "Read    →  Grow",
+        ]
+
+    def __str__(self):
+        return f"Backend Dev | {self.location} | {self.portfolio}"
+
+
+me = SantushTKotai()
+print(me)         # Backend Dev | India | https://santusht.me
+print(me.philosophy())
 ```
 
 <br clear="right"/>
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Arsenal
+<br/>
+
+## 🗺️ My Coding Journey
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│                          SANTUSH'S CODE ODYSSEY                          │
+├──────────┬───────────────────────────────────────────────────────────────┤
+│  Year 1  │  🌱 Hello World moment — discovered programming               │
+│          │     Fell in love with Python. Logic > everything.             │
+├──────────┼───────────────────────────────────────────────────────────────┤
+│  Year 2  │  ⚙️  Backend Click — Django, REST APIs, databases             │
+│          │     Built first CRUD app. Survived first CORS error.          │
+├──────────┼───────────────────────────────────────────────────────────────┤
+│  Year 3  │  🚀 Going Full Stack — React, Node.js, Express                │
+│          │     Frontend is cool. But backend is home.                    │
+├──────────┼───────────────────────────────────────────────────────────────┤
+│  Year 4  │  🐳 DevOps Awakening — Docker, Linux, CI/CD                   │
+│          │     "It works on my machine" → No longer acceptable.          │
+├──────────┼───────────────────────────────────────────────────────────────┤
+│  Now     │  🧠 System Design & Architecture Mode ON                      │
+│          │     Microservices, scalability, clean code at scale.          │
+├──────────┼───────────────────────────────────────────────────────────────┤
+│  Next    │  ☁️  Cloud-native | gRPC | Open Source Contributions          │
+│          │     Building in public. Shipping. Growing.                    │
+└──────────┴───────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-### ⚙️ Backend
+### 🐍 Languages
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=58A6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=58A6FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=58A6FF)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=58A6FF)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF)
+
+### ⚙️ Backend Frameworks
 ![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=58A6FF)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=58A6FF)
-![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=58A6FF)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=58A6FF)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=58A6FF)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=58A6FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=58A6FF)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=58A6FF)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=58A6FF)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=58A6FF)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=58A6FF)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=58A6FF)
 
-### 🗄️ Databases & Cloud
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=58A6FF)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=58A6FF)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=58A6FF)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=58A6FF)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=58A6FF)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=58A6FF)
 
-### 🛠️ DevOps & Tools
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=58A6FF)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=58A6FF)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=58A6FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)
+![Railway](https://img.shields.io/badge/Railway-0d1117?style=for-the-badge&logo=railway&logoColor=58A6FF)
+
+### 🛠️ Developer Tools
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=58A6FF)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=58A6FF)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=58A6FF)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=58A6FF)
+![Insomnia](https://img.shields.io/badge/Insomnia-0d1117?style=for-the-badge&logo=insomnia&logoColor=58A6FF)
 
 </div>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/santusht06">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santusht06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santusht06&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8"/>
-</a>
 
 <br/>
 
+<div align="center">
+
+```
+  ╔═══════════════════════════════════════════════════════════╗
+  ║              PROFICIENCY BREAKDOWN                        ║
+  ╠══════════════════╦════════════════════════════════════════╣
+  ║  Python          ║  ████████████████████░░  90%          ║
+  ║  Django / Flask  ║  ███████████████████░░░  85%          ║
+  ║  Node.js         ║  ██████████████████░░░░  80%          ║
+  ║  REST API Design ║  ████████████████████░░  90%          ║
+  ║  PostgreSQL      ║  ████████████████░░░░░░  75%          ║
+  ║  Docker          ║  ████████████████░░░░░░  70%          ║
+  ║  React           ║  ███████████████░░░░░░░  65%          ║
+  ║  System Design   ║  ██████████████░░░░░░░░  60%  📈      ║
+  ╚══════════════════╩════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
 <a href="https://github.com/santusht06">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=santusht06&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=santusht06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&count_private=true&include_all_commits=true" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santusht06&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=10" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/santusht06">
+  <img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=santusht06&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 </a>
 
 </div>
 
----
+<br/>
 
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=santusht06&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=santusht06&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </div>
 
----
+<br/>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=santusht06&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF&area=true&area_color=1f6feb&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=santusht06&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF&area=true&area_color=1f6feb&hide_border=true&custom_title=Santush's%20Contribution%20Graph" />
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Snake
+## 🐍 Watch My Contributions Get Eaten
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santusht06/santusht06/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santusht06/santusht06/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/santusht06/santusht06/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/santusht06/santusht06/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
----
+<br/>
 
-## 🎯 Current Focus
-
-```javascript
-const focus = {
-  building   : "Scalable REST APIs & microservices",
-  exploring  : "System design & distributed systems",
-  reading    : "Clean Architecture — Robert C. Martin",
-  goal_2025  : "Ship 3 open-source backend projects",
-  mantra     : "Write code that future-you won't hate 🧠"
-};
-```
-
----
-
-## 📫 Connect With Me
+## 🗂️ Profile Summary Cards
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santusht06&theme=github_dark" width="100%" />
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/santusht06)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://linkedin.com/in/santusht06)
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=58A6FF)](https://twitter.com/santusht06)
-[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:santusht06@gmail.com)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santusht06&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santusht06&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=santusht06&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santusht06&theme=github_dark&utcOffset=5.5" />
+</div>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=santusht06&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🔭 What I'm Currently Building
+
+```javascript
+// ─────────────────────────────────────────────
+//  santusht06's dev.log — 2025
+// ─────────────────────────────────────────────
+
+const currentChapter = {
+
+  title      : "Level Up: Backend at Scale",
+
+  building   : [
+    "High-performance REST APIs with rate limiting and caching",
+    "Auth systems — JWT, OAuth2, refresh token rotation",
+    "Containerized services with Docker Compose",
+    "Async task queues with Celery + Redis",
+  ],
+
+  exploring  : [
+    "System design patterns — CQRS, Event Sourcing",
+    "Kubernetes basics and orchestration concepts",
+    "Database optimization — indexing, query planning",
+    "gRPC for inter-service communication",
+  ],
+
+  reading    : [
+    "Clean Architecture          — Robert C. Martin",
+    "Designing Data-Intensive Apps — Martin Kleppmann",
+    "The Pragmatic Programmer    — Hunt & Thomas",
+  ],
+
+  goals      : {
+    q1_2025  : "Ship 2 open-source backend packages on PyPI",
+    q2_2025  : "Contribute to a major Python OSS project",
+    q3_2025  : "Deploy first cloud-native microservice on AWS EKS",
+    yearly   : "Write technical blogs on santusht.me",
+  },
+
+  mantra     : "Ship → Learn → Improve → Repeat",
+};
+
+console.log("Status:", currentChapter.mantra);
+```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 💡 My Engineering Principles
+
+<div align="center">
+
+```
+  ┌─────────────────────────────────────────────────────────────┐
+  │                                                             │
+  │   "Make it work, make it right, make it fast."              │
+  │   Every line of code is a liability — write less.           │
+  │   APIs are contracts. Break them, you break trust.          │
+  │   Logs are your best friend in production.                  │
+  │   If it is not tested, it does not work.                    │
+  │   Documentation is a love letter to your future self.       │
+  │   Clean code > clever code. Always.                         │
+  │                                                             │
+  └─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-<!-- Footer quote -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+%E2%80%94+John+Johnson;%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22" alt="Footer Quote" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer&animation=fadeIn" />
+## 📫 Let's Connect & Build Together
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.linkedin.com/in/santusht-kotai-8a4454323/">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=161b22" /><br/>
+        <sub>Professional Network</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://santusht.me">
+        <img src="https://img.shields.io/badge/Portfolio-Explore-0d1117?style=for-the-badge&logo=safari&logoColor=58A6FF&labelColor=161b22" /><br/>
+        <sub>santusht.me</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="mailto:santushtkotai1221@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=161b22" /><br/>
+        <sub>santushtkotai1221@gmail.com</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/santusht06">
+        <img src="https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161b22" /><br/>
+        <sub>@santusht06</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+> "Always open to interesting backend projects, open-source collabs, or just a great tech conversation. Drop a mail or connect on LinkedIn!"
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22;%22Make+it+work.+Make+it+right.+Make+it+fast.%22" alt="Footer Quotes" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" />
 
 </div>
