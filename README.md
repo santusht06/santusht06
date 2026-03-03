@@ -437,4 +437,4 @@ jobs:
 
 Once this runs, the snake will automatically use your real contributions.
 
-</details>
+</details># trigger
