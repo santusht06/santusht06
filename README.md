@@ -190,7 +190,10 @@ print(me.philosophy())
 
 ### 🧪 Testing & Developer Tools
 
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pytest,vim&theme=dark&perline=8" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vim&theme=dark&perline=8" /></a>
+
+<!-- pytest via devicons since it's not on skillicons -->
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" title="pytest" />&nbsp;
 
 ---
 
