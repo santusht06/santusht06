@@ -11,29 +11,34 @@
   </a>
 </div>
 
-<br/><br/>
+<div align="center">
 
 <a href="https://www.linkedin.com/in/santusht-kotai-8a4454323/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0d1117" />
-</a>
+  <img src="https://img.shields.io/badge/LinkedIn-Santusht%20Kotai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+</a>&nbsp;
 <a href="https://santusht.me">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=safari&logoColor=58A6FF&labelColor=0d1117" />
-</a>
+  <img src="https://img.shields.io/badge/Portfolio-santusht.me-111827?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" />
+</a>&nbsp;
 <a href="mailto:santushtkotai1221@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0d1117" />
-</a>
+  <img src="https://img.shields.io/badge/Gmail-santushtkotai1221-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+</a>&nbsp;
 <a href="https://github.com/santusht06">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub-santusht06-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
 </a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=santusht06&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/santusht06?style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=github&logoColor=58A6FF)
-![Stars](https://img.shields.io/github/stars/santusht06?style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=github&logoColor=58A6FF)
 
 </div>
 
+<br/>
+<br/>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=santusht06&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/santusht06?style=for-the-badge&label=FOLLOWERS&color=58A6FF&labelColor=161b22&logo=github&logoColor=white)
+&nbsp;
+![Stars](https://img.shields.io/github/stars/santusht06?style=for-the-badge&label=STARS&color=58A6FF&labelColor=161b22&logo=github&logoColor=white&affiliations=OWNER)
+
+</div>
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
