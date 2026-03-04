@@ -5,12 +5,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Santusht.&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20API%20Architect%20%7C%20Systems%20Thinker&descAlignY=60&descSize=18&descColor=8b949e" />
 
 
-<a href="https://santusht.me">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=🚀+Backend+Dev+crafting+scalable+APIs...;⚡+Python+%7C+Node.js+%7C+Django+%7C+FastAPI;🧠+Obsessed+with+clean+architecture+%26+system+design;🌐+Building+at+santusht.me;💡+%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22" alt="Typing SVG" />
-</a>
-
-
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend+Dev+crafting+scalable+APIs...;Python+%7C+Node.js+%7C+Django+%7C+FastAPI;Obsessed+with+clean+architecture+%26+system+design;Building+at+santusht.me;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/><br/>
 
