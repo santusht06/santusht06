@@ -26,19 +26,16 @@
   <img src="https://img.shields.io/badge/GitHub-santusht06-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
 </a>
 
-</div>
+<br>
 
-<br/>
-<br/>
-<div align="center">
+</div  >
 
-![Profile Views](https://komarev.com/ghpvc/?username=santusht06&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/santusht06?style=for-the-badge&label=FOLLOWERS&color=58A6FF&labelColor=161b22&logo=github&logoColor=white)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/santusht06?style=for-the-badge&label=STARS&color=58A6FF&labelColor=161b22&logo=github&logoColor=white&affiliations=OWNER)
+![Profile Views](https://komarev.com/ghpvc/?username=santusht06&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/santusht06?style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=github&logoColor=58A6FF)
+![Stars](https://img.shields.io/github/stars/santusht06?style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=github&logoColor=58A6FF)
 
 </div>
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
