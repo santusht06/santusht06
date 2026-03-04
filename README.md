@@ -146,61 +146,70 @@ print(me.philosophy())
 <div align="center">
 
 ### 🧠 Languages
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=58A6FF)
-![Go](https://img.shields.io/badge/Golang-0d1117?style=for-the-badge&logo=go&logoColor=58A6FF)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=58A6FF)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=58A6FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=58A6FF)
+
+<a href="#"><img src="https://skillicons.dev/icons?i=py,java,go,cpp,c,js,ts,bash&theme=dark&perline=8" /></a>
+
+---
 
 ### ⚙️ Backend & Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=58A6FF)
-![Gin](https://img.shields.io/badge/Gin-0d1117?style=for-the-badge&logo=go&logoColor=58A6FF)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=58A6FF)
-![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=58A6FF)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF)
+
+<a href="#"><img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express&theme=dark&perline=8" /></a>
+
+<br/>
+
+<!-- Gin & SQLAlchemy via devicons (not on skillicons) -->
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="Gin (Go)" />&nbsp;&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" />
+
+---
 
 ### 🗄️ Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=58A6FF)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=58A6FF)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-0d1117?style=for-the-badge&logo=amazondynamodb&logoColor=58A6FF)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=58A6FF)
+
+<a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,dynamodb&theme=dark&perline=8" /></a>
+
+---
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=58A6FF)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=58A6FF)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=58A6FF)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=58A6FF)
-![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=58A6FF)
+
+<a href="#"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,cloudflare,nginx,linux&theme=dark&perline=8" /></a>
+
+---
 
 ### 🔐 Systems, Networking & Security
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=58A6FF)
+
+<a href="#"><img src="https://skillicons.dev/icons?i=linux,bash&theme=dark&perline=8" /></a>
+
+<br/>
+
 ![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=58A6FF)
 ![WebSockets](https://img.shields.io/badge/WebSockets-0d1117?style=for-the-badge&logo=socketdotio&logoColor=58A6FF)
 ![gRPC](https://img.shields.io/badge/gRPC-0d1117?style=for-the-badge&logo=grpc&logoColor=58A6FF)
-![REST](https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge&logo=postman&logoColor=58A6FF)
+![REST API](https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge&logo=postman&logoColor=58A6FF)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0d1117?style=for-the-badge&logo=cloudflare&logoColor=58A6FF)
 
-### 🧪 Testing & Engineering Practices
-![pytest](https://img.shields.io/badge/pytest-0d1117?style=for-the-badge&logo=pytest&logoColor=58A6FF)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=58A6FF)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=58A6FF)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=58A6FF)
+---
+
+### 🧪 Testing & Developer Tools
+
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pytest,vim&theme=dark&perline=8" /></a>
+
+---
 
 ### 🧩 Core Computer Science
+
+<br/>
+
 ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0d1117?style=for-the-badge&logo=leetcode&logoColor=58A6FF)
-![System Design](https://img.shields.io/badge/System_Design-0d1117?style=for-the-badge&logo=blueprint&logoColor=58A6FF)
+![System Design](https://img.shields.io/badge/System_Design-0d1117?style=for-the-badge&logo=apachekafka&logoColor=58A6FF)
 ![OS](https://img.shields.io/badge/Operating_Systems-0d1117?style=for-the-badge&logo=linux&logoColor=58A6FF)
 ![CN](https://img.shields.io/badge/Computer_Networks-0d1117?style=for-the-badge&logo=cisco&logoColor=58A6FF)
 ![DBMS](https://img.shields.io/badge/DBMS-0d1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF)
 ![Concurrency](https://img.shields.io/badge/Concurrency_%26_Multithreading-0d1117?style=for-the-badge&logo=processwire&logoColor=58A6FF)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-0d1117?style=for-the-badge&logo=blueprint&logoColor=58A6FF)
 
 </div>
 
 <br/>
-
 <div align="center">
 
 ```
@@ -238,15 +247,10 @@ print(me.philosophy())
 <br/><br/>
 
 <a href="https://github.com/santusht06">
-  <img width="72%" src="https://streak-stats.demolab.com/?user=santusht06&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+  <img width="72%" src="https://streak-stats.demolab.com/?user=santusht06&hide_border=true&background=0d1117&border=1f6feb&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e" />
 </a>
 
 </div>
-
-<br/>
-
-
-<br/>
 
 ## 📈 Contribution Graph
 
