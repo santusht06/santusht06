@@ -2,64 +2,23 @@
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td width="55%" valign="middle" align="left">
-      <h2><b>Santusht Kotai</b> 👋</h2>
-      <p><b>Software Engineer &amp; Founder of <a href="https://github.com/santusht06/interleet">Interleet</a></b></p>
-      <p>Building high-throughput backend systems, developer tools, and cloud infrastructure.</p>
-      <br/>
-      <p>
-        <code>AI Systems</code> &nbsp;•&nbsp; 
-        <code>Backend</code> &nbsp;•&nbsp; 
-        <code>DevOps</code> &nbsp;•&nbsp; 
-        <code>Distributed Systems</code>
-      </p>
-      <br/>
-      <p>
-        <a href="https://santusht.me"><img src="https://img.shields.io/badge/Portfolio-santusht.me-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-        <a href="https://github.com/santusht06"><img src="https://img.shields.io/badge/GitHub-santusht06-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-        <a href="https://www.linkedin.com/in/santusht-kotai-8a4454323/"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-        <a href="mailto:santushtkotai1221@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-      </p>
-    </td>
-    <td width="45%" valign="middle" align="center">
-      <pre><code>                               :;:,=;-;....                                          
-                           ,:-*@%@08@88@%*+---:::                                    
-                       -=-#*@88888888888888888880%#-::                               
-                     =--+88%#88#0@@88888888088888888%--=                             
-                    -:=8%#08888888888888888888888888888@@*                           
-                    :=8%8@88888888888888888888888888888@888                          
-                  %*%@%0888@@#%#*@8088888888888888888888880                          
-                   -0%%+,..-==#88#%88880888888888888888888@                          
-                   =@88=*:.#%%88*;@88888@%88888888888888888                          
-                   =---#0;,8@0%,..==;=#%8#088888@%**888888                           
-                  == #+%..+800%:..,-+#%%*+*088*#%88*888888                           
-                 8%;::,,.+888088:,+0@@%%#***##+8088@88888                            
-                   +;:,..*@@88888*+#@%%##****+0@08%88888                             
-                       =..;*88088@80@@%%**+++%%%8#88888                              
-                        ;:;;-#88@080@@%#**+++**@*#88888                              
-                        =,:%0@@%++%000@%###***0@+#8888                               
-                         ;.,..:-*00000800@%#*+++++888                                
-                         *,;#@88888888880@#*++++++08                                 
-                          *08888888880@@@%#*+***++*8                                 
-                           8%#%#@80@0@0@%#**+**++*+888                               
-                               #:+8880@@%#**+++++++@888                              
-                             #+#..,*880@%%*+***+***888888                            
-                        @0%*:+-=,...-%@8@##**0@*#888888080088                        
-                8+=+*8%##*=.+8:=#..,-==*#%###8#%8888888@088888888808                 
-            ++=;:=0008%%=%,;88,#8-.;+*0##%%%%%88888888880888888888800@@              
-         #-,,..,%8880*=++=.@88:*08#:-%%@%%%@@%@0888888800888888888880@@@@%%          
-       -#-.,-=,8888#;==-:..%08@=%88@,;*@%%%##8888%088888888888888888888@@8%%#8       
-     %;.*+:*%#;8888**+-#@8#@88#%#888...,;:...=--..,-*#08888888888888888@8888%##0     
-    +,...%@*%%+8888@+--888088###88=-@............-088888888888888888888088008####    
-  8;......80%@*8888%:,%*;*80@@8#88#,#8....,:::..*8888888888888888888888@008888%##*8  
- ##...:0@%*088=8888,:...,;-:.,;=@88==#8;...,:.,088888888888888888888888%088888%%%8@+ 
- *-.+=88888088*888=....,,:;;:;;;;**+-#88+.,,.+8888888888888888888888880%@88800@@%88# 
-%;,.#=88888888*88@....-:,,:;::::::+*@80@88@+#8888888888888880888888880@@088000@%@888+</code></pre>
-    </td>
-  </tr>
-</table>
+<h2><b>Santusht Kotai</b> 👋</h2>
+<p><b>Software Engineer &amp; Founder of <a href="https://github.com/santusht06/interleet">Interleet</a></b></p>
+<p>Building high-throughput backend systems, developer tools, and cloud infrastructure.</p>
+<br/>
+<p>
+  <code>AI Systems</code> &nbsp;•&nbsp; 
+  <code>Backend</code> &nbsp;•&nbsp; 
+  <code>DevOps</code> &nbsp;•&nbsp; 
+  <code>Distributed Systems</code>
+</p>
+<br/>
+<p>
+  <a href="https://santusht.me"><img src="https://img.shields.io/badge/Portfolio-santusht.me-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/santusht06"><img src="https://img.shields.io/badge/GitHub-santusht06-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/santusht-kotai-8a4454323/"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:santushtkotai1221@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 </div>
 
