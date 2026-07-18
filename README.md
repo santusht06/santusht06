@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi, I'm Santusht Kotai 👋
 
 ```text
@@ -36,11 +38,11 @@
 %;,.#=88888888*88@....-:,,:;::::::+*@80@88@+#8888888888888880888888880@@088000@%@888+
 ```
 
-<div align="center">
   <p>
     <a href="https://santusht.me"><img src="https://img.shields.io/badge/Portfolio-santusht.me-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
     <a href="https://github.com/santusht06"><img src="https://img.shields.io/badge/GitHub-santusht06-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/santusht-kotai-8a4454323/"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:santushtkotai1221@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
+
 </div>
