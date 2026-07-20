@@ -1,27 +1,41 @@
-# Hi, I'm Santusht Kotai 👋
-I build highly-scalable backend systems and design robust database architectures.
+# yo, i'm santusht 👋
 
-[Website](https://santusht.me) · [LinkedIn](https://www.linkedin.com/in/santusht-kotai-8a4454323/) · [GitHub](https://github.com/santusht06) · [Email](mailto:santushtkotai1221@gmail.com)
+> building scalable backends, shipping dev tools & rawdogging distributed systems at 3am ☕️
 
-### About
-🚀 **Backend & Systems Engineer** designing high-throughput API architectures and inter-service communication workflows.  
-🧠 Currently exploring **distributed systems patterns, Kubernetes orchestration, and Rust**.  
-📫 Find everything I do at [santusht.me](https://santusht.me)
-
-### 💡 Engineering Principles
-- 🛠️ **"Make it work, make it right, make it fast."** — Design for correctness and clarity first, then optimize.
-- 📦 **Minimalist Codebases** — Every line of code is a liability, so write less but write it better.
-- 🤝 **APIs are Contracts** — Robust systems require stable, well-designed endpoints that never break trust.
-- 🔍 **Observable & Tested** — Logs, metrics, and test coverage are non-negotiable for production reliability.
-
-### Technical Arsenal
-**Languages & Frameworks** → Python · Go · FastAPI · Node.js · Gin · Java  
-**Cloud & DevOps** → Docker · Kubernetes · AWS (EKS, EC2, RDS) · GitHub Actions · Linux  
-**Databases & Caching** → PostgreSQL · Redis · MongoDB · MySQL · DynamoDB
+[website](https://santusht.me) · [linkedin](https://www.linkedin.com/in/santusht-kotai-8a4454323/) · [github](https://github.com/santusht06) · [email](mailto:santushtkotai1221@gmail.com)
 
 ---
 
-### 📊 GitHub Activity
+### ⚡ tldr;
+
+- 🚀 founder @ **[interleet](https://github.com/santusht06/interleet)** (building tools so devs don't lose their sanity)
+- 🧠 currently cooking with **go**, **rust**, **kubernetes**, & **distributed systems**
+- 🗿 main stack: python, golang, fastAPI, docker, aws, & pure caffeine
+- 📍 find my main character arc at [santusht.me](https://santusht.me)
+
+---
+
+### 💅 the vibe / engineering lore
+
+- 🏎️ **make it work > make it fast > overengineer later** — clean code or we riot.
+- 🗑️ **less code = less pain** — every extra line is just a future bug waiting to jump scare me.
+- 🔒 **apis are legally binding contracts** — if an endpoint breaks in prod, no cap i didn't do it.
+- 🧪 **test it before you flex it** — zero unit tests is insane behavior.
+
+---
+
+### 🛠️ what i cook with
+
+| category | tech stack |
+|---|---|
+| **languages** | `Python` · `Go` · `Rust` · `TypeScript` · `Java` · `SQL` |
+| **backend & apis** | `FastAPI` · `Gin` · `Node.js` · `gRPC` · `WebSockets` · `REST` |
+| **cloud & devops** | `Docker` · `Kubernetes` · `AWS (EKS, EC2, RDS)` · `GitHub Actions` · `Linux` |
+| **databases & cache** | `PostgreSQL` · `Redis` · `MongoDB` · `Qdrant` · `DynamoDB` |
+
+---
+
+### 📈 green grid flex
 
 <div align="center">
   <picture>
