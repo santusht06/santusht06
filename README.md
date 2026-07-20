@@ -1,48 +1,41 @@
-<div align="center">
-
 # Hi, I'm Santusht Kotai 👋
+I build highly-scalable backend systems and design robust database architectures.
 
-```text
-                               :;:,=;-;....                                          
-                           ,:-*@%@08@88@%*+---:::                                    
-                       -=-#*@88888888888888888880%#-::                               
-                     =--+88%#88#0@@88888888088888888%--=                             
-                    -:=8%#08888888888888888888888888888@@*                           
-                    :=8%8@88888888888888888888888888888@888                          
-                  %*%@%0888@@#%#*@8088888888888888888888880                          
-                   -0%%+,..-==#88#%88880888888888888888888@                          
-                   =@88=*:.#%%88*;@88888@%88888888888888888                          
-                   =---#0;,8@0%,..==;=#%8#088888@%**888888                           
-                  == #+%..+800%:..,-+#%%*+*088*#%88*888888                           
-                 8%;::,,.+888088:,+0@@%%#***##+8088@88888                            
-                   +;:,..*@@88888*+#@%%##****+0@08%88888                             
-                       =..;*88088@80@@%%**+++%%%8#88888                              
-                        ;:;;-#88@080@@%#**+++**@*#88888                              
-                        =,:%0@@%++%000@%###***0@+#8888                               
-                         ;.,..:-*00000800@%#*+++++888                                
-                         *,;#@88888888880@#*++++++08                                 
-                          *08888888880@@@%#*+***++*8                                 
-                           8%#%#@80@0@0@%#**+**++*+888                               
-                               #:+8880@@%#**+++++++@888                              
-                             #+#..,*880@%%*+***+***888888                            
-                        @0%*:+-=,...-%@8@##**0@*#888888080088                        
-                8+=+*8%##*=.+8:=#..,-==*#%###8#%8888888@088888888808                 
-            ++=;:=0008%%=%,;88,#8-.;+*0##%%%%%88888888880888888888800@@              
-         #-,,..,%8880*=++=.@88:*08#:-%%@%%%@@%@0888888800888888888880@@@@%%          
-       -#-.,-=,8888#;==-:..%08@=%88@,;*@%%%##8888%088888888888888888888@@8%%#8       
-     %;.*+:*%#;8888**+-#@8#@88#%#888...,;:...=--..,-*#08888888888888888@8888%##0     
-    +,...%@*%%+8888@+--888088###88=-@............-088888888888888888888088008####    
-  8;......80%@*8888%:,%*;*80@@8#88#,#8....,:::..*8888888888888888888888@008888%##*8  
- ##...:0@%*088=8888,:...,;-:.,;=@88==#8;...,:.,088888888888888888888888%088888%%%8@+ 
- *-.+=88888088*888=....,,:;;:;;;;**+-#88+.,,.+8888888888888888888888880%@88800@@%88# 
-%;,.#=88888888*88@....-:,,:;::::::+*@80@88@+#8888888888888880888888880@@088000@%@888+
-```
+[Website](https://santusht.me) · [LinkedIn](https://www.linkedin.com/in/santusht-kotai-8a4454323/) · [GitHub](https://github.com/santusht06) · [Email](mailto:santushtkotai1221@gmail.com)
 
-  <p>
-    <a href="https://santusht.me"><img src="https://img.shields.io/badge/Portfolio-santusht.me-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-    <a href="https://github.com/santusht06"><img src="https://img.shields.io/badge/GitHub-santusht06-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/santusht-kotai-8a4454323/"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:santushtkotai1221@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  </p>
+### About
+🚀 **Backend & Systems Engineer** designing high-throughput API architectures and inter-service communication workflows.  
+🧠 Currently exploring **distributed systems patterns, Kubernetes orchestration, and Rust**.  
+📫 Find everything I do at [santusht.me](https://santusht.me)
 
+### 💡 Engineering Principles
+- 🛠️ **"Make it work, make it right, make it fast."** — Design for correctness and clarity first, then optimize.
+- 📦 **Minimalist Codebases** — Every line of code is a liability, so write less but write it better.
+- 🤝 **APIs are Contracts** — Robust systems require stable, well-designed endpoints that never break trust.
+- 🔍 **Observable & Tested** — Logs, metrics, and test coverage are non-negotiable for production reliability.
+
+### Technical Arsenal
+**Languages & Frameworks** → Python · Go · FastAPI · Node.js · Gin · Java  
+**Cloud & DevOps** → Docker · Kubernetes · AWS (EKS, EC2, RDS) · GitHub Actions · Linux  
+**Databases & Caching** → PostgreSQL · Redis · MongoDB · MySQL · DynamoDB
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santusht06/santusht06/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santusht06/santusht06/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/santusht06/santusht06/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/santusht06">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=santusht06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&count_private=true&include_all_commits=true" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santusht06&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" />
+  </a>
 </div>
