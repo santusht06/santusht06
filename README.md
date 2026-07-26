@@ -68,7 +68,7 @@
 
 <div align="center">
   <a href="https://github.com/santusht06">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=santusht06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&count_private=true&include_all_commits=true" alt="Santusht's GitHub Stats" />
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santusht06&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
+    <img height="165px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=santusht06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&count_private=true&include_all_commits=true" alt="Santusht's GitHub Stats" />
+    <img height="165px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santusht06&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
   </a>
 </div>
