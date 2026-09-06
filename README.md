@@ -1,10 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B+I'm+Santusht+Kotai;Backend+%26+Systems+Engineer;Founder+%40+Interleet;Building+Distributed+Systems" alt="Typing SVG" />
-</h1>
 
-<p align="center">
-  <b>Building scalable backends, resilient cloud architecture, and high-performance developer tools.</b>
-</p>
 
 <p align="center">
   <a href="https://santusht.me"><img src="https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" /></a>
@@ -13,17 +7,10 @@
   <a href="mailto:santushtkotai1221@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<br/>
 
-## 📌 Executive Summary
 
-- 🚀 **Founder @ [Interleet](https://github.com/santusht06/interleet)** — Architecting next-gen developer productivity tools.
-- ⚡ **Focus Areas** — Distributed Systems, Cloud Native (Kubernetes/AWS), Microservices & High-Throughput APIs.
-- 🧪 **Current Stack Exploration** — Deep diving into low-latency **Rust**, concurrent **Go**, and cloud infrastructure.
 
----
-
-## 🛠️ Technical Ecosystem
+## Technical Ecosystem
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -31,30 +18,10 @@
   </a>
 </p>
 
-<details>
-<summary><b>Detailed Tech Breakdown</b></summary>
-<br/>
 
-| Category | Stack & Tools |
-|---|---|
-| **Core Languages** | `Python` · `Go` · `Rust` · `TypeScript` · `Java` · `SQL` |
-| **Backend & Distributed Systems** | `FastAPI` · `Gin` · `Node.js` · `gRPC` · `WebSockets` · `REST APIs` |
-| **Infrastructure & DevOps** | `Docker` · `Kubernetes` · `AWS (EKS, EC2, RDS)` · `GitHub Actions` · `Linux` |
-| **Data & Storage** | `PostgreSQL` · `Redis` · `MongoDB` · `Qdrant` · `DynamoDB` |
 
-</details>
 
----
-
-## ⚙️ Engineering Principles
-
-- 🎯 **Simplicity First** — Less code = fewer points of failure. Keep abstractions lean and intent clear.
-- 🔒 **Strong Contracts** — Robust API design, deterministic validation, and strict boundary typing.
-- 📈 **Performance & Resilience** — Test early, profile bottlenecks, and build self-healing systems.
-
----
-
-## 📊 Activity & Analytics
+## Activity & Analytics
 
 <div align="center">
   <picture>
