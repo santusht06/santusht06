@@ -12,9 +12,11 @@
 
 
 
+## Technical Ecosystem
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,rust,ts,java,fastapi,nodejs,postgres,redis,mongodb,dynamodb,docker,kubernetes,aws,githubactions,linux&perline=8" alt="My Skills" />
+  <a href="[https://skillicons.dev"](https://skillicons.dev")>
+    <img src="[https://skillicons.dev/icons?i=python,go,rust,ts,java,fastapi,nodejs,postgres,redis,mongodb,dynamodb,docker,kubernetes,aws,githubactions,linux&perline=8"](https://skillicons.dev/icons?i=python,go,rust,ts,java,fastapi,nodejs,postgres,redis,mongodb,dynamodb,docker,kubernetes,aws,githubactions,linux&perline=8") alt="My Skills" />
   </a>
 </p>
 
@@ -24,8 +26,6 @@
 ## Activity & Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santusht06/santusht06/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santusht06/santusht06/output/github-contribution-grid-snake.svg" />
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/santusht06/santusht06/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
