@@ -1,16 +1,16 @@
 
 
+![AI Maintained](https://img.shields.io/badge/readme-AI%20maintained-blue)
+
 <p align="center">
-  <a href="https://santusht.me"><img src="https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/santusht-kotai-8a4454323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/santusht06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:santushtkotai1221@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="[https://santusht.me"](https://santusht.me")><img src="[https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=firefox&logoColor=white"](https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=firefox&logoColor=white") alt="Website" /></a>
+  <a href="[https://www.linkedin.com/in/santusht-kotai-8a4454323/"](https://www.linkedin.com/in/santusht-kotai-8a4454323/")><img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white") alt="LinkedIn" /></a>
+  <a href="[https://github.com/santusht06"](https://github.com/santusht06")><img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white") alt="GitHub" /></a>
+  <a href="mailto:santushtkotai1221@gmail.com"><img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white") alt="Email" /></a>
 </p>
 
 
 
-
-## Technical Ecosystem
 
 <p align="center">
   <a href="https://skillicons.dev">
